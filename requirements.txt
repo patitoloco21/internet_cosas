@@ -1,0 +1,19 @@
+# Dependencias para la práctica de Redes Neuronales (A, B y C)
+# Entorno recomendado: Python 3.10 o 3.11 en Windows
+
+# Computación numérica y álgebra lineal
+numpy>=1.24.0
+
+# Visualización y exportación de evidencias gráficas
+matplotlib>=3.7.0
+
+# Métricas y utilidades auxiliares
+scikit-learn>=1.2.0
+
+# Framework de Deep Learning (Requerido para incisos B y C)
+tensorflow>=2.12.0
+
+# Entorno de Notebooks interactivos
+ipykernel>=6.20.0
+notebook>=7.0.0
+nbformat>=5.9.0
